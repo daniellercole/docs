@@ -39,7 +39,7 @@ If you are following along with our sample project, set this to http://localhost
 A logout URL is a URL in your application that you would like Auth0 to redirect users to after they have logged out. If not set, users will not be able to log out from your application and will receive an error.
 
 ::: note
-If you are following along with our sample project, set this to http://localhost:3000/logout.
+If you are following along with our sample project, set this to http://localhost:3000/.
 :::
 
 ## Install the Express OpenID Connect SDK {{{ data-action=code data-code="server.js#3:10" }}}
