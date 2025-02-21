@@ -13,7 +13,7 @@ Both of the above repositories require team access.
 ## Editing Docs Content
 Auth0 Docs are no longer maintained in this Github repository. Employees can request access to our content management system to update Docs directly. Outside contributors can submit requests under the [Issues](https://github.com/auth0/docs/issues) section in this repository.
 
-## Editing Quickstart Content
+## Editing Quickstart Content testing
 
 * You can edit the Quickstarts by using the GitHub web editor and editing a file. This is best suited for typos and small changes.
 * You can also pull down the `/docs` repo to your computer via Git and edit files in your local editor before pushing a new branch (or a branch to your own fork of the project). You can then go to GitHub.com and start a PR. We will be able to review the changes in a Heroku test application prior to merging.
