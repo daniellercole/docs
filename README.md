@@ -8,7 +8,7 @@ This repository contains the Auth0 Quickstarts, but most other documentation con
 * If you are looking for the application that *hosts* the Docs content, see [auth0-docs](https://github.com/auth0/auth0-docs).
 * If you would like to modify the Management API v2 API docs, they are generated from the [api2](https://github.com/auth0/api2) repository.
 
-Both of the above repositories require team access. testing
+Both of the above repositories require team access.
 
 ## Editing Docs Content
 Auth0 Docs are no longer maintained in this Github repository. Employees can request access to our content management system to update Docs directly. Outside contributors can submit requests under the [Issues](https://github.com/auth0/docs/issues) section in this repository.
